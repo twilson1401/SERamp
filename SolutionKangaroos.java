@@ -6,7 +6,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class Solution {
+public class SolutionKangaroos {
 
     // Complete the kangaroo function below.
     static String kangaroo(int x1, int v1, int x2, int v2) {
